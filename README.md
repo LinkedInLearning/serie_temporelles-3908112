@@ -18,9 +18,8 @@ Ce dossier Repository contient des dossiers pour chacun des chapitres de la form
    - [Python](https://www.python.org/downloads/)
    - [InfluxDB](https://www.influxdata.com/downloads/)
    - [DBeaver](https://dbeaver.io/) ou tout autre outil de requête qui se connecte à PostgreSQL
-2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
+2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree
    - `git clone https://github.com/LinkedInLearning/serie_temporelles-3908112.git`
-
 
 ### Formateur
 
