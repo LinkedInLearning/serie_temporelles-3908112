@@ -1,0 +1,5 @@
+from(bucket: "air")
+  |> range(start: 2020-01-01T00:00:00Z, stop: 2030-01-01T00:00:00Z) 
+  |> group(columns: ["_measurement", "_field"])
+  |> count(column: "_value")  
+  |> sum(column: "_value")
