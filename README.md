@@ -28,8 +28,8 @@ Ce dossier Repository contient des dossiers pour chacun des chapitres de la form
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-des-series-temporelles
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQH8-JhSJeHPWw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726465580248?e=2147483647&v=beta&t=0br5VcCFc3TJW7b1s6gF3A2xUo7ncjOgNlRsQFgzZRU
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/rudi-bruchez
 
 [1]: # (End of FR-Instruction ###############################################################################################)
