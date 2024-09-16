@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours `L'essentiel des séries temporelles`. L
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-Dans cette formation de Rudi Bruchez sur les séries temporelles, qui s'adresse aux data analysts et data scientists, vous apprendrez à comprendre la structure des données temporelles, à définir les périodes et à distinguer différents types de temps. Vous découvrirez comment utiliser InfluxDB pour gérer et interroger vos données efficacement, ainsi qu'à installer et configurer TimescaleDB pour travailler avec des hypertables et gérer les fuseaux horaires. Enfin, vous aborderez l'analyse et la prédiction des séries temporelles avec Python, en explorant des modèles et des méthodes pour une prévision précise.		
+Dans cette formation de Rudi Bruchez sur les séries temporelles, qui s'adresse aux data analysts et data scientists, vous apprendrez à comprendre la structure des données temporelles, à définir les périodes et à distinguer différents types de temps. Vous découvrirez comment utiliser InfluxDB pour gérer et interroger vos données efficacement, ainsi qu'à installer et configurer TimescaleDB pour travailler avec des hypertables et gérer les fuseaux horaires. Enfin, vous aborderez l'analyse et la prédiction des séries temporelles avec Python, en explorant des modèles et des méthodes pour une prévision précise.
 
 ## Instructions
 
